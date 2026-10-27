@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@theme {
+    --font-caacupe: 'Caacupe One', cursive, sans-serif;
+}
